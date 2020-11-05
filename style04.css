@@ -1,0 +1,14 @@
+ul
+{
+    display:flex;
+    background-color:grey;
+    list-style-type:none;
+    height:500px;
+    align-items:center;
+    justify-content:center;
+}
+ul>li
+{
+    padding:30px;
+    background-color:darkseagreen;
+}

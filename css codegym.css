@@ -1,0 +1,28 @@
+body
+{
+    font-family:arial, sans-rerif;
+}
+ul
+{
+    list-style-type:none;
+    background-color:dimgrey;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+li
+{
+    float:left;
+}
+li a
+{
+    display:block;
+    color:white;
+    text-align:left;
+    text-decoration:none;
+    padding:10px;
+}
+li a:hover
+{
+    background-color:#333333;
+}
